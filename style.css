@@ -63,4 +63,7 @@ button {
     #horoscope-result {
         margin-top: 10px;
     }
+    body{
+    background-color: #000;
+    }
 }
